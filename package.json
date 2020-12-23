@@ -1,0 +1,17 @@
+{
+  "name": "testnext",
+  "version": "0.0.1",
+  "description": "Next",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "next": "*",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
